@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'latolight';
+    src: url('../fonts/lato-lig-webfont.eot');
+    src: url('../fonts/lato-lig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lato-lig-webfont.woff') format('woff'),
+         url('../fonts/lato-lig-webfont.ttf') format('truetype'),
+         url('../fonts/lato-lig-webfont.svg#latolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.hover-artista a {
+	a:hover:#f0581e;
+}
+
+.logo{
+	width: 316px;
+}
+
+.nav-topo {
+	margin-top: 50px; 
+}
+.tittle-padding{
+	padding-bottom: 50px;
+}
+.active{
+	color:#F0581E;
+}
+.background-barbatuques {
+	padding-bottom: 50px;
+	height: auto;
+	max-width: 960px;
+	min-width: 800px;	
+	background-color: #898989;
+	background-image: url('../img/banner-barbatuques.jpg');
+	background-repeat: no-repeat;
+}
+.background-celso {
+	padding-bottom: 50px;
+	height: auto;
+	max-width: 960px;
+	min-width: 800px;	
+	background-color: #898989;
+	background-image: url('../img/banner-celso.jpg');
+	background-repeat: no-repeat;
+}
+.background-criolo {
+	padding-bottom: 50px;
+	height: auto;
+	max-width: 960px;
+	min-width: 800px;	
+	background-color: #898989;
+	background-image: url('../img/banner-criolo.jpg');
+	background-repeat: no-repeat;
+}
+.background-teatro {
+	padding-bottom: 50px;
+	height: auto;
+	max-width: 960px;
+	min-width: 800px;	
+	background-color: #898989;
+	background-image: url('../img/banner-teatro.jpg');
+	background-repeat: no-repeat;
+}
+.background-tie {
+	padding-bottom: 50px;
+	height: auto;
+	max-width: 960px;
+	min-width: 800px;
+	background-color: #898989;
+	background-image: url('../img/banner-tie.jpg');
+	background-repeat: no-repeat;
+}
+.background-wanessa {
+	padding-bottom: 50px;
+	height: auto;
+	max-width: 960px;
+	min-width: 800px;
+	background-color: #898989;
+	background-image: url('../img/banner-wanessa.jpg');
+	background-repeat: no-repeat;
+}
+
+.bibliography {
+	color: #ffffff;
+}
+.footer {
+	color: #898989;
+}
+
+#carousel-example-generic {
+	max-width: 600px;
+}
